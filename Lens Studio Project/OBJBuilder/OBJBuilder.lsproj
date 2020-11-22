@@ -3,7 +3,7 @@
     "document_id": "aZG00uXm8AVN4fXxTVAp",
     "original_document_id": "qz2VqCFRk7lqOPuv6joH",
     "version": "26",
-    "lastChanged": "1606075727069",
+    "lastChanged": "1606078097844",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -247,17 +247,17 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "33",
-                    "uid": "1606075571388612:172086",
-                    "name": "Files\/File39.js",
+                    "resId": "35",
+                    "uid": "1606076828860499:35294",
+                    "name": "Files\/File41.js",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
                 },
                 {
-                    "resId": "34",
-                    "uid": "1606075571416915:172099",
-                    "name": "Files\/File40.js",
+                    "resId": "36",
+                    "uid": "1606076828896550:35307",
+                    "name": "Files\/File42.js",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -370,12 +370,12 @@
                     "v": "Files\/File38.jpg"
                 },
                 {
-                    "k": "39",
-                    "v": "Files\/File39.js"
+                    "k": "41",
+                    "v": "Files\/File41.js"
                 },
                 {
-                    "k": "40",
-                    "v": "Files\/File40.js"
+                    "k": "42",
+                    "v": "Files\/File42.js"
                 }
             ]
         },
@@ -437,11 +437,11 @@
                         "v": "Texture\/toy.jpg"
                     },
                     {
-                        "k": "8737",
+                        "k": "8739",
                         "v": "Script\/MeshFiles [CONVERTED OBJ FILES GO HERE]\/pighead.js"
                     },
                     {
-                        "k": "8738",
+                        "k": "8740",
                         "v": "Script\/MeshFiles [CONVERTED OBJ FILES GO HERE]\/toy.js"
                     }
                 ],
@@ -508,11 +508,11 @@
                     },
                     {
                         "k": "8729",
-                        "v": "b38e14b8b02b8aa4f92c5f3b22189bec"
+                        "v": "0b4b052582cbea7163f7a10eb6d63fb4"
                     },
                     {
                         "k": "8731",
-                        "v": "c42a7ba8c1e0fbc0ed0997d2e6fc3ece"
+                        "v": "47a4fb57faab4e7bc4e490b6916638c6"
                     },
                     {
                         "k": "8732",
@@ -537,6 +537,14 @@
                     {
                         "k": "8738",
                         "v": "c156bbacbc8dd2ac38bcdc6386e20539"
+                    },
+                    {
+                        "k": "8739",
+                        "v": "67fc964affd8443d3467c13987cbeae3"
+                    },
+                    {
+                        "k": "8740",
+                        "v": "c156bbacbc8dd2ac38bcdc6386e20539"
                     }
                 ],
                 "publicState": {
@@ -544,7 +552,7 @@
                         "isFolder": "true",
                         "lastModified": "2020-11-22T21:07:45",
                         "name": "Public",
-                        "hash": "fd77a7cf09d157950d0bd5e3c848c6a0",
+                        "hash": "cf336bdde169015239cd906339ffa9df",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -554,20 +562,20 @@
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-11-22T21:06:11",
+                                        "lastModified": "2020-11-22T21:27:08",
                                         "name": "MeshFiles [CONVERTED OBJ FILES GO HERE]",
                                         "hash": "d753dfcefbbba01f6251a46130ff4514",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-22T21:05:48",
+                                                "lastModified": "2020-11-22T21:26:47",
                                                 "name": "toy.js",
                                                 "hash": "c156bbacbc8dd2ac38bcdc6386e20539",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-11-22T21:05:48",
+                                                "lastModified": "2020-11-22T21:26:47",
                                                 "name": "pighead.js",
                                                 "hash": "67fc964affd8443d3467c13987cbeae3",
                                                 "children": ""
@@ -665,22 +673,22 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-11-22T21:08:36",
+                                "lastModified": "2020-11-22T21:48:15",
                                 "name": "Material",
-                                "hash": "71c369016809d8649fa1b92a5bc3564e",
+                                "hash": "d6976d662e2fdf1b51342bb2e1e5b0e7",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-22T21:08:36",
+                                        "lastModified": "2020-11-22T21:48:15",
                                         "name": "Toy.lsmat",
-                                        "hash": "ac79328ebc0c69b2785c93a971dc4e9b",
+                                        "hash": "4e60112cc511024b41b3c7907426e9de",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-11-22T21:08:36",
+                                        "lastModified": "2020-11-22T21:48:15",
                                         "name": "Pighead.lsmat",
-                                        "hash": "2b4f34dc51a4207f0a9594a58fc89e03",
+                                        "hash": "e13a902d82b079d613c4bd2784695e6a",
                                         "children": ""
                                     },
                                     {
@@ -898,12 +906,12 @@
                                         "name": "pighead",
                                         "type": "4",
                                         "subtype": "0",
-                                        "resourceId": "33",
+                                        "resourceId": "35",
                                         "dependency": "0",
-                                        "uid": "1606075571388612:172086",
-                                        "fileId": "39",
+                                        "uid": "1606076828860499:35294",
+                                        "fileId": "41",
                                         "originalId": "18446744073709551615",
-                                        "publicId": "8737",
+                                        "publicId": "8739",
                                         "source": "\/Users\/gsmac31\/Desktop\/OBJBuilder\/Python\/pighead.js",
                                         "additional": ""
                                     },
@@ -911,12 +919,12 @@
                                         "name": "toy",
                                         "type": "4",
                                         "subtype": "0",
-                                        "resourceId": "34",
+                                        "resourceId": "36",
                                         "dependency": "0",
-                                        "uid": "1606075571416915:172099",
-                                        "fileId": "40",
+                                        "uid": "1606076828896550:35307",
+                                        "fileId": "42",
                                         "originalId": "18446744073709551615",
-                                        "publicId": "8738",
+                                        "publicId": "8740",
                                         "source": "\/Users\/gsmac31\/Desktop\/OBJBuilder\/Python\/toy.js",
                                         "additional": ""
                                     }
@@ -969,7 +977,11 @@
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1604316859481192:694216"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",

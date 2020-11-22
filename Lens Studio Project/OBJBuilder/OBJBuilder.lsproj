@@ -1,0 +1,1009 @@
+{
+    "lens_id": "",
+    "document_id": "aZG00uXm8AVN4fXxTVAp",
+    "original_document_id": "qz2VqCFRk7lqOPuv6joH",
+    "version": "26",
+    "lastChanged": "1606075727069",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "2",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "2",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Material"
+                    ],
+                    [
+                        "Material",
+                        "Pighead"
+                    ],
+                    [
+                        "Material",
+                        "Toy"
+                    ],
+                    [
+                        "Script"
+                    ],
+                    [
+                        "Script",
+                        "MeshFiles [CONVERTED OBJ FILES GO HERE]"
+                    ],
+                    [
+                        "Script",
+                        "MeshFiles [CONVERTED OBJ FILES GO HERE]",
+                        "pighead"
+                    ],
+                    [
+                        "Script",
+                        "MeshFiles [CONVERTED OBJ FILES GO HERE]",
+                        "toy"
+                    ],
+                    [
+                        "Script",
+                        "OBJBuilderController"
+                    ],
+                    [
+                        "Script",
+                        "OBJBuilderController",
+                        "OBJBuilderController"
+                    ],
+                    [
+                        "Texture"
+                    ],
+                    [
+                        "Texture",
+                        "Other"
+                    ],
+                    [
+                        "Texture",
+                        "Other",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Texture",
+                        "Other",
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Texture",
+                        "Other",
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Texture",
+                        "Other",
+                        "Render Target"
+                    ],
+                    [
+                        "Texture",
+                        "pighead"
+                    ],
+                    [
+                        "Texture",
+                        "toy"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1517446348227994:84813",
+                    "1517446348228144:84822",
+                    "1528843813151434:5126",
+                    "1604316859481192:694216",
+                    "1604318298159435:874531",
+                    "1604318313424059:876514",
+                    "1604354373052899:18110"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "OBJBuilder",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1605998651022941:584423"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1604317392816564:759774",
+                    "name": "Files\/File16.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1605998651022941:584423",
+                    "name": "Files\/File29",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1606074679793464:55946",
+                    "name": "Files\/File31",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1606074802161179:73124",
+                    "name": "Files\/File35.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1606074802191842:73137",
+                    "name": "Files\/File37.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1606075571388612:172086",
+                    "name": "Files\/File39.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1606075571416915:172099",
+                    "name": "Files\/File40.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1604316859481192:694216",
+                "4": "1604318298159435:874531",
+                "5": "1604318313424059:876514",
+                "6": "1606074384350220:19553"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.js"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.lsmat"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.lsmat"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.jpg"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.jpg"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.jpg"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.jpg"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.js"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Texture\/Other\/Echopark.hdr"
+                    },
+                    {
+                        "k": "8710",
+                        "v": "Texture"
+                    },
+                    {
+                        "k": "8711",
+                        "v": "Script"
+                    },
+                    {
+                        "k": "8712",
+                        "v": "Script\/OBJBuilderController\/OBJBuilderController.js"
+                    },
+                    {
+                        "k": "8717",
+                        "v": "Script\/OBJBuilderController"
+                    },
+                    {
+                        "k": "8725",
+                        "v": "Script\/MeshFiles [CONVERTED OBJ FILES GO HERE]"
+                    },
+                    {
+                        "k": "8729",
+                        "v": "Material\/Pighead.lsmat"
+                    },
+                    {
+                        "k": "8730",
+                        "v": "Material"
+                    },
+                    {
+                        "k": "8731",
+                        "v": "Material\/Toy.lsmat"
+                    },
+                    {
+                        "k": "8734",
+                        "v": "Texture\/Other"
+                    },
+                    {
+                        "k": "8735",
+                        "v": "Texture\/pighead.jpg"
+                    },
+                    {
+                        "k": "8736",
+                        "v": "Texture\/toy.jpg"
+                    },
+                    {
+                        "k": "8737",
+                        "v": "Script\/MeshFiles [CONVERTED OBJ FILES GO HERE]\/pighead.js"
+                    },
+                    {
+                        "k": "8738",
+                        "v": "Script\/MeshFiles [CONVERTED OBJ FILES GO HERE]\/toy.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "8707",
+                        "v": "621da74e06cc402b895f39376927a9d1"
+                    },
+                    {
+                        "k": "8708",
+                        "v": "e9da239a097118b9a175b6743d0581a8"
+                    },
+                    {
+                        "k": "8709",
+                        "v": "e9da239a097118b9a175b6743d0581a8"
+                    },
+                    {
+                        "k": "8712",
+                        "v": "e21ea58eec1b2b9291c14984cb8de301"
+                    },
+                    {
+                        "k": "8713",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "8715",
+                        "v": "e9da239a097118b9a175b6743d0581a8"
+                    },
+                    {
+                        "k": "8716",
+                        "v": "74d133961329898237be88d73c1bd602"
+                    },
+                    {
+                        "k": "8719",
+                        "v": "322d8d2701fd8f2603728f9ac2c72996"
+                    },
+                    {
+                        "k": "8722",
+                        "v": "93f82f6accc7c5bfa07bb55a1cf9b68a"
+                    },
+                    {
+                        "k": "8723",
+                        "v": "f705b3a7b990a5f8c490c6c0d1e3b537"
+                    },
+                    {
+                        "k": "8726",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "8728",
+                        "v": "c458a7ab8731c865359157b8c3ae6325"
+                    },
+                    {
+                        "k": "8729",
+                        "v": "b38e14b8b02b8aa4f92c5f3b22189bec"
+                    },
+                    {
+                        "k": "8731",
+                        "v": "c42a7ba8c1e0fbc0ed0997d2e6fc3ece"
+                    },
+                    {
+                        "k": "8732",
+                        "v": "98f4b63ce64666e68d11226131f84d56"
+                    },
+                    {
+                        "k": "8733",
+                        "v": "765fdab40f10d1d690b124460a599bab"
+                    },
+                    {
+                        "k": "8735",
+                        "v": "b659b78ac162298068a20c4a11ed2ab3"
+                    },
+                    {
+                        "k": "8736",
+                        "v": "8fcf0fa392cba077dd354c4c6411d379"
+                    },
+                    {
+                        "k": "8737",
+                        "v": "67fc964affd8443d3467c13987cbeae3"
+                    },
+                    {
+                        "k": "8738",
+                        "v": "c156bbacbc8dd2ac38bcdc6386e20539"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-11-22T21:07:45",
+                        "name": "Public",
+                        "hash": "fd77a7cf09d157950d0bd5e3c848c6a0",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-11-22T20:52:31",
+                                "name": "Script",
+                                "hash": "95f1b2155f15734cc1bd476eda5656f5",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-11-22T21:06:11",
+                                        "name": "MeshFiles [CONVERTED OBJ FILES GO HERE]",
+                                        "hash": "d753dfcefbbba01f6251a46130ff4514",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-22T21:05:48",
+                                                "name": "toy.js",
+                                                "hash": "c156bbacbc8dd2ac38bcdc6386e20539",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-22T21:05:48",
+                                                "name": "pighead.js",
+                                                "hash": "67fc964affd8443d3467c13987cbeae3",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-03T22:30:02",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-11-22T00:22:37",
+                                        "name": "OBJBuilderController",
+                                        "hash": "6b1cd568626f42790cff4eb124ac8186",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-22T20:46:13",
+                                                "name": "OBJBuilderController.js",
+                                                "hash": "e21ea58eec1b2b9291c14984cb8de301",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-02T12:57:43",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-02T12:43:05",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-11-22T20:53:22",
+                                "name": "Texture",
+                                "hash": "9c298476c79b0076cf79249c1d6a3cfd",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-22T20:06:07",
+                                        "name": "toy.jpg",
+                                        "hash": "8fcf0fa392cba077dd354c4c6411d379",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-11-22T20:53:15",
+                                        "name": "Other",
+                                        "hash": "7305afc99178fbb8f0912889f41c0cab",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-10-09T06:07:36",
+                                                "name": "Echopark.hdr",
+                                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-11-22T20:53:07",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-22T20:05:29",
+                                        "name": "pighead.jpg",
+                                        "hash": "b659b78ac162298068a20c4a11ed2ab3",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-02T12:42:57",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-11-22T21:08:36",
+                                "name": "Material",
+                                "hash": "71c369016809d8649fa1b92a5bc3564e",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-22T21:08:36",
+                                        "name": "Toy.lsmat",
+                                        "hash": "ac79328ebc0c69b2785c93a971dc4e9b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-22T21:08:36",
+                                        "name": "Pighead.lsmat",
+                                        "hash": "2b4f34dc51a4207f0a9594a58fc89e03",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-11-21T23:46:05",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-09T06:06:49",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Texture",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8710",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Other",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8734",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Echopark",
+                                        "type": "9",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "2",
+                                        "uid": "-1:-1",
+                                        "fileId": "7",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "967",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Diff",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "10",
+                                                "dependency": "1",
+                                                "uid": "1588296316843646:534374",
+                                                "fileId": "3",
+                                                "originalId": "4",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Specular",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "11",
+                                                "dependency": "1",
+                                                "uid": "1588296316857901:534385",
+                                                "fileId": "5",
+                                                "originalId": "6",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Render Target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "1",
+                                        "dependency": "0",
+                                        "uid": "1:1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Device Camera Texture",
+                                        "type": "1",
+                                        "subtype": "3",
+                                        "resourceId": "2",
+                                        "dependency": "0",
+                                        "uid": "2:2",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "pighead",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "31",
+                                "dependency": "0",
+                                "uid": "1606074802161179:73124",
+                                "fileId": "35",
+                                "originalId": "36",
+                                "publicId": "8735",
+                                "source": "\/Users\/gsmac31\/Desktop\/OBJBuilder\/Python\/pighead.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "toy",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "32",
+                                "dependency": "0",
+                                "uid": "1606074802191842:73137",
+                                "fileId": "37",
+                                "originalId": "38",
+                                "publicId": "8736",
+                                "source": "\/Users\/gsmac31\/Desktop\/OBJBuilder\/Python\/toy.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Script",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8711",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "OBJBuilderController",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8717",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "OBJBuilderController",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "16",
+                                        "dependency": "0",
+                                        "uid": "1604317392816564:759774",
+                                        "fileId": "16",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8712",
+                                        "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-udjQTc\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "MeshFiles [CONVERTED OBJ FILES GO HERE]",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8725",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "pighead",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "33",
+                                        "dependency": "0",
+                                        "uid": "1606075571388612:172086",
+                                        "fileId": "39",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8737",
+                                        "source": "\/Users\/gsmac31\/Desktop\/OBJBuilder\/Python\/pighead.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "toy",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "34",
+                                        "dependency": "0",
+                                        "uid": "1606075571416915:172099",
+                                        "fileId": "40",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8738",
+                                        "source": "\/Users\/gsmac31\/Desktop\/OBJBuilder\/Python\/toy.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Material",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8730",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Pighead",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "26",
+                                "dependency": "0",
+                                "uid": "1605998651022941:584423",
+                                "fileId": "29",
+                                "originalId": "30",
+                                "publicId": "8729",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Toy",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "27",
+                                "dependency": "0",
+                                "uid": "1606074679793464:55946",
+                                "fileId": "31",
+                                "originalId": "32",
+                                "publicId": "8731",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}

@@ -1,8 +1,17 @@
 # SnapLensStudio-OBJBuilder
-Convert .obj files to JavaScript files, to be interpreted by Lens Studio's MeshBuilder.
+Convert .obj files to scripts, to then be re-built using Lens Studio's MeshBuilder!
 
 
-Run Python/objToJS.py using the terminal to automatically convert all .obj files in its directory to JavaScript files.
-Import those into Lens Studio and add them to the scene, so they can be used with the OBJBuilderController.
+<br>
+
+# How to use
+- Run objToJS.py using the terminal, to convert all .obj files in its directory to JavaScript files
+- Import these and use them with OBJBuilderController
+
+<br>
 
 Make sure .obj files to be converted are triangulated and have per-point UVs and normals.
+
+<br>
+
+![OBJBuilder Lens Studio](https://github.com/max-van-leeuwen/SnapLensStudio-OBJBuilder/blob/main/Media/objbuilder.gif?raw=true)
